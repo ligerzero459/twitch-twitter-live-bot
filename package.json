@@ -1,0 +1,19 @@
+{
+  "name": "twitch-twitter-live-bot",
+  "version": "0.0.1",
+  "description": "Bot that changes Twitter display names when user goes live",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ligerzero459/twitch-twitter-live-bot.git"
+  },
+  "author": "Ryan Mottley <ligerzero459@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ligerzero459/twitch-twitter-live-bot/issues"
+  },
+  "homepage": "https://github.com/ligerzero459/twitch-twitter-live-bot#readme"
+}
